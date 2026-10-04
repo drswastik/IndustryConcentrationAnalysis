@@ -20,4 +20,4 @@ This project analyzes the market structure and competitive intensity of three ma
 ## Tech Stack
 * **Language:** Python
 * **Libraries:** Pandas (Data Manipulation), Matplotlib/Seaborn (Data Visualization)
-* **Concepts:** Microeconomic Theory, Market Structures, Data Pipeline Automation
+* **Concepts:** Microeconomic Theory, Market Structures
